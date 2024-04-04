@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\scott\source\repos\Lab1Ritchie\Lab1Ritchie\Laboratory.cpp(20,11): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Ritchie.vcxproj -> C:\Users\scott\source\repos\Lab1Ritchie\x64\Debug\Lab1Ritchie.exe
